@@ -17,3 +17,9 @@
 <h2>Face/Emotion Detection</h2>
 <img src="Images/Preview Images/fd1.jpg" width="575"/>
 <img src="Images/Preview Images/fd2.jpg" width="575"/>
+
+
+<h2>Projected Keyboard</h2>
+<img src="Images/Preview Images/1.png" width="575"/>
+<img src="Images/Preview Images/2.png" width="575"/>
+<img src="Images/Preview Images/3.png" width="575"/>
